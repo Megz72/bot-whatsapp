@@ -1,7 +1,7 @@
 /**
- * @ Author: SeroBot Team
+ * @ Author: MegzBot Team
  * @ Create Time: 2021-05-31 22:33:11
- * @ Modified by: Danang Dwiyoga A (https://github.com/dngda/)
+ * @ Modified by: Megz
  * @ Modified time: 2021-06-25 11:28:51
  * @ Description: Menu
  */
@@ -41,7 +41,7 @@ Collaborate now: https://github.com/dngda/bot-whatsapp
 
 Best regards, 
 
--Danang.`
+-Megz.`
 }
 
 /*
